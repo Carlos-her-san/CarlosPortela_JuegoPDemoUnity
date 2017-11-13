@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/escenas/escenaPrueba_juegop.unity
-  isLoaded: 1
-  isActive: 1
